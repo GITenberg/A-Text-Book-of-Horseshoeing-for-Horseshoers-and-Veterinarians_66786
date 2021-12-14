@@ -1,0 +1,37 @@
+_repo: A-Text-Book-of-Horseshoeing-for-Horseshoers-and-Veterinarians_66786
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Adams, John W. (John William)
+    aliases:
+    - Adams, J. W. (John William)
+    - Adams, John William
+    birthdate: 1862
+    deathdate: 1926
+    gutenberg_agent_id: '53959'
+    url: http://www.gutenberg.org/2009/agents/53959
+creator:
+  author:
+    agent_name: Lungwitz, A. (Anton)
+    aliases:
+    - Lungwitz, Anton
+    - Lungwitz, Friedrich Clemens Anton
+    birthdate: 1845
+    deathdate: 1936
+    gutenberg_agent_id: '53958'
+    url: http://www.gutenberg.org/2009/agents/53958
+description: ''
+gutenberg_issued: '2021-11-21'
+identifiers:
+  gutenberg: '66786'
+  lccn: '13018996'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Horseshoeing'
+- GITenberg
+title: A Text-Book of Horseshoeing, for Horseshoers and Veterinarians
+url: http://www.gutenberg.org/ebooks/66786
