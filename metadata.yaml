@@ -10,6 +10,9 @@ contributor:
     deathdate: 1926
     gutenberg_agent_id: '53959'
     url: http://www.gutenberg.org/2009/agents/53959
+covers:
+- cover_type: archival
+  image_path: 66786-h/images/cover.jpg
 creator:
   author:
     agent_name: Lungwitz, A. (Anton)
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '53958'
     url: http://www.gutenberg.org/2009/agents/53958
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66786#A-Text-Book-of-Horseshoeing-for-Horseshoers-and-Veterinarians
 gutenberg_issued: '2021-11-21'
 identifiers:
   gutenberg: '66786'
